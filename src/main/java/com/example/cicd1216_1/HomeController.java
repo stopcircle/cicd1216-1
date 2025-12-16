@@ -18,6 +18,6 @@ public class HomeController {
 
     @GetMapping("/hi3")
     public String hicicd3(){
-        return "새로운 개발 cicd 적용 take123231212";
+        return "새로운 개발 cicd 적용 take123231123212";
     }
 }
