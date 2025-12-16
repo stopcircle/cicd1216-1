@@ -15,4 +15,9 @@ public class HomeController {
     public String hicicd2(){
         return "새로운 개발 cicd 적용";
     }
+
+    @GetMapping("/hi3")
+    public String hicicd3(){
+        return "새로운 개발 cicd 적용 take2";
+    }
 }
